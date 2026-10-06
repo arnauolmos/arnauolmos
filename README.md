@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 ¡Hola! Soc l'Arnau Olmos de Llanos
+
+### 🎓 Estudiant d'informatica | 💻 Apasionat per l'Electronica
+
+</div>
 
 <!--
 **arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
