@@ -6,6 +6,11 @@
 
 </div>
 
+---
+
+## 🎯 Sobre mí
+
+🏫 **Estudiant de GM Sistemes Microinformatics i xarxes** a  **l'Escola Pia Mataró** (Barcelona, España)  
 <!--
 **arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
