@@ -1,70 +1,60 @@
-<div align="center">
-  
-# 👋 ¡Hola! Soc l'Arnau Olmos de Llanos
+# 💻 Hola, soc l'Arnau Olmos! 
 
-### 🎓 Estudiant d'informatica | 💻 Apasionat per l'Electronica
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Estudiant-SMX-blue?style=for-the-badge&logo=academic" alt="Estudiant SMX" />
+  <img src="https://img.shields.io/badge/Escola_Pia-Santa_Anna_Matar%C3%B3-red?style=for-the-badge" alt="Escola Pia Santa Anna" />
+  <img src="https://img.shields.io/badge/Estat-En_formaci%C3%B3-brightgreen?style=for-the-badge" alt="Estat" />
+</p>
 
 ---
 
-## 🎯 Sobre mí
+## 👨‍💻 Sobre mi
+Soc estudiant del cicle formatiu de grau mitjà de **Sistemes Microinformàtics i Xarxes (SMX)** a l'**Escola Pia Santa Anna de Mataró**. Apassionat per la tecnologia, l'arquitectura de sistemes, les xarxes i l'administració d'entorns Linux i Windows.
 
-🏫 **Estudiant de GM Sistemes Microinformatics i xarxes** a  **l'Escola Pia Mataró** (Barcelona, España)  
-<!--
+- 🏫 **Centre d'estudis:** Escola Pia Santa Anna (Mataró)
+- 🎓 **Especialitat:** Microinformàtica, Xarxes i Administració de Sistemes
+- 🌐 **Idiomes:** Català, Castellà i Anglès tècnic
+- ⚽ **Interessos:** Electronica, Robotica i Inforamtica
+
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🛠️ Competències i Tecnologies (SMX)
 
-### 💻 Sistemas Operativos y Administración
-
+### 🐧 Sistemes Operatius i Administració
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔧 Virtualización y Contenedores
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-E57000?style=for-the-badge&logo=vagrant&logoColor=white)
-
-### 🌐 Redes y Servicios
-
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FF6B6B?style=for-the-badge&logo=router&logoColor=white)
-
-### 🔒 Seguridad y Herramientas
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
-### 📝 Scripting y Desarrollo
-
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🛠️ Otras herramientas
+### 🌐 Xarxes i Seguretat
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-127385?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap/Zenmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 
+### 🎨 Disseny i Altres Eines
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-**arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📂 Projectes Destacats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projecte | Descripció | Tecnologies utilitzades |
+| :--- | :--- | :--- |
+| **PiaByte** | Simulació d'infrastructura TIC acadèmica amb servidors, BASH scripting i Kea DHCP. | `Zorin OS` `BASH` `DHCP` `Packet Tracer` |
+| **Bits & Bolts** | Disseny de startup tecnològica: muntatge de maquinari, bases de dades i prototipat web. | `Figma` `MS Access` `Linux` `Networking` |
+
+---
+
+## 🎯 Objectius Professionals
+- [ ] Finalitzar el Cicle Formatiu de Grau Mitjà SMX amb excel·lència.
+- [ ] Continuar la meva formació cap a un Cicle Formatiu de Grau Superior.
+
+---
+
+## 📬 Contacte
+- ✉️ **Email:** [arnaauu490@gmail.com](mailto:arnaauu490@gmail.com)
+- 🐙 **GitHub:** [https://github.com/arnauolmos](https://github.com/arnauolmos)
