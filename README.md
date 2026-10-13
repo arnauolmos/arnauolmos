@@ -40,5 +40,8 @@
 ![JS](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
+## Interessos
+**Apassionat per la informàtica, l'electrònica i la robòtica. M'interessa especialment el muntatge i manteniment d'equips, la configuració de xarxes i l'automatització de sistemes. Gaudixo resolent problemes tècnics, aprenent de manera autònoma i posant en pràctica nous projectes de programació i hardware.**
+
 **arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
