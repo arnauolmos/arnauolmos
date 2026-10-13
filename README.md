@@ -39,6 +39,8 @@
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-5391FE?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🛠️ Altres Eines
 
