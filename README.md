@@ -11,9 +11,7 @@
 ## 🎯 Sobre mí
 
 🏫 **Estudiant de GM Sistemes Microinformatics i xarxes** a  **l'Escola Pia Mataró** (Barcelona, España)  
-<!--
 ---
-
 ## 🚀 Tecnologías y Herramientas
 
 ### 💻 Sistemas Operativos y Administración
