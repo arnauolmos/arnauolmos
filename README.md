@@ -42,7 +42,7 @@
 ![Python](https://img.shields.io/badge/python-5391FE?style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/html5-F05032?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-A47DAB?style=for-the-badge&logo=css&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)
 ### 🛠️ Altres Eines
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
