@@ -40,7 +40,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-5391FE?style=for-the-badge&logo=python&logoColor=white)
-
+![HTML](https://img.shields.io/badge/html5-5391FF?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🛠️ Altres Eines
 
