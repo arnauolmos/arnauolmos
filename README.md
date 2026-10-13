@@ -38,8 +38,6 @@
 ![HTML](https://img.shields.io/badge/html5-F05032?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-A47DAB?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)
-### 🛠️ Altres Eines
-![Arduino](https://img.shields.io/badge/arduino-#0F52BA?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 **arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
