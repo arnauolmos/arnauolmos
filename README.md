@@ -25,11 +25,6 @@
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### 🌐 Xarxes i Servells
-
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FF6B6B?style=for-the-badge&logo=router&logoColor=white)
-
 ### 🔒 Seguratat y Eines
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -44,10 +39,7 @@
 ![CSS](https://img.shields.io/badge/css-A47DAB?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)
 ### 🛠️ Altres Eines
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-#0F52BA?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 **arnauolmos/arnauolmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
